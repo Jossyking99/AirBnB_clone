@@ -35,7 +35,7 @@ def parse(arg):
 
 
 class HBNBCommand(cmd.Cmd):
-    """Defines the command interpreter.
+    """This Defines the command interpreter.
     Attributes:
         prompt (str): The command prompt.
     """
